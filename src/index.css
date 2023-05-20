@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --orange-gradient: linear-gradient(270deg, #ffb978 0%, #ff922d 100%);
+
+}

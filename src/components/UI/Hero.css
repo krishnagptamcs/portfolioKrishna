@@ -1,0 +1,26 @@
+.orange-circle{
+  height: 4rem;
+  width: 4rem;
+  background: var(--orange-gradient);
+  border-radius: 999px;
+  position: relative;
+  right: 0%;
+  top: 0%;
+  ;
+ }
+
+
+
+ .square{
+    height: 8rem;
+    width: 8rem;
+    background: var(--orange-gradient);
+    border-radius: 999px;
+    z-index: -15;
+    position: absolute;
+    filter: blur(20px);
+    -webkit-filter: blur(20px);
+    
+    
+    
+ }
