@@ -39,7 +39,7 @@ const Header = () => {
                 </a>
               </li>
               <li>
-                <a className="text-smallTextColor font-[600] pb-1 border-b-2 border-solid border-primaryColor hover:border-b-0" href="#portfolio">
+                <a className="text-smallTextColor font-[600] pb-1 border-b-2 border-solid border-primaryColor hover:border-b-0" href="#projects">
                   Portfolio
                 </a>
               </li>
