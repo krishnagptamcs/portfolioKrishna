@@ -74,7 +74,7 @@ const Service = () => {
                         </h3>
                         <p className="text-[13px] text-smallTextColor group-hover:text-white  group-hover:font-[600] leading-7">
                           I have expertise in backend development tools and
-                          tech-stack like- Nodejs, ExpressJS, MondoDB , NoSQL etc
+                          tech-stack like- Nodejs, ExpressJS, MondoDB.
                         </p>
                       </div>
                     </div>
@@ -131,10 +131,10 @@ const Service = () => {
                         className="bg-white p-4 rounded shadow group hover:bg-primaryColor cursor-pointer ease-in duration-150"
                       >
                         <h3 className="text-primaryColor font-[700] mb-3 group-hover:text-white group-hover:font-[600] text-xl ">
-                          Python Developer
+                          UI-Design
                         </h3>
                         <p className="text-[13px] text-smallTextColor group-hover:text-white  group-hover:font-[600] leading-7">
-                        With the latest tool and technology of programming langauage perform various application in Data scienece, ML
+                        With the latest tool and technology of UI tools and software (figma) , creating a responsive UI.
                         </p>
                       </div>
                     </div>

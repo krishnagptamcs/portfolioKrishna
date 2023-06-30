@@ -29,9 +29,9 @@ const Hero = () => {
                 options={{
                   strings: [
                     "Frontend-Developer",
-                    "Backend-Developer",
-                    "Designer",
-                    "Freelancer",
+                    "React-Developer",
+                    "Software-Devloper",
+                    "MERN-stack",
                   ],
                   autoStart: true,
                   loop: true,
@@ -47,7 +47,7 @@ const Hero = () => {
               className="flex items-center gap-6 mt-7"
             >
               <a
-                href="https://drive.google.com/file/d/11UKXjO10jXapo0KsdMM22EqiJWRXtgWM/view?usp=share_link
+                href="https://drive.google.com/file/d/1wAyttX1l4TKyDfXyy4muRVz8TSuA2NyI/view?usp=sharing
               "
                 target="_blank"
                 rel="noreferre"
@@ -69,8 +69,8 @@ const Hero = () => {
 
             <p className="flex gap-2 text-headingColor font-[500] text-[15px] leading-7 sm:pl-14 sm:pr-10 mt-10 ">
               My experience includes building responsive user interfaces,
-              implementing RESTful APIs, and working with database management
-              systems.
+              implementing RESTful APIs, and working with Backend developers to meet requirement
+             
             </p>
 
             <div className="flex items-center gap-9 mt-12">

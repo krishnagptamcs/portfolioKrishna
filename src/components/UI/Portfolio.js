@@ -67,13 +67,13 @@ const Portfolio = () => {
               onClick={() => setSelectTab("Web-Design")}
               className="text-smallTextColor border border-solid border-smallTextColor py-2 px-4 rounded-[8px]"
             >
-              Web-Design
+              Front-End 
             </button>
             <button
               onClick={() => setSelectTab("UX-design")}
               className="text-smallTextColor border border-solid border-smallTextColor py-2 px-4 rounded-[8px]"
             >
-              UI-UX
+              MERN
             </button>
           </div>
         </div>
